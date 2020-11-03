@@ -1,1 +1,2 @@
-# Advanced-Algorithm-Design-and-Data-Structures
+# George Dimopoulos
+# georgios.as.dimopoulos@gmail.com
